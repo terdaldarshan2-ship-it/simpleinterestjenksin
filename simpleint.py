@@ -8,4 +8,4 @@ if __name__ == "__main__":
     i = int(sys.argv[2])
     t = int(sys.argv[3])
 
-    print("simple interest:", simInt(p,i,t))
+    print("simple interest:", simInt(p,r,t))
